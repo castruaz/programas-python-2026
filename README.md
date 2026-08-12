@@ -8,6 +8,9 @@
 - Programa 1
 - Programa 2
 
-castruaz
-castr@uaz.edu.mx
+# Actividad 2
+- Programa 3
+- Programa 4
+
+
 
